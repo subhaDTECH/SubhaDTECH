@@ -1,11 +1,17 @@
 ### Hi there, I'm Suva Duley  [Full-Stack Developer] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Student at University Institute Of Technology, Burdwan!
 - 🔭 I’m currently working as Student!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play cricket and play Football 
+### software developer 🌟🌟🌟
+### python ,C++,DBMS,OPPS
+### Learing DS and ALGO
+### Competitive Programmer , starting Freelancing  in Upwork
+
+
 
 ### Connect with me:
 
