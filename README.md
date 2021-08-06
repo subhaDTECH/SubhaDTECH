@@ -14,7 +14,10 @@
 
 
 ### Connect with me:
-
+[protfolie]:https://main-protfolie.web.app/
+[instagram]:https://www.instagram.com/subhaduleygba/
+[linkedin]:https://www.linkedin.com/in/suva-duley-741881202/
+[github]:https://github.com/subhaDTECH
 
 
 ### Languages and Tools:
@@ -38,8 +41,3 @@
 
 <br />
 <br />
-
-[protfolie]: https://main-protfolie.web.app/
-[instagram]: https://www.instagram.com/subhaduleygba/
-[linkedin]: https://www.linkedin.com/in/suva-duley-741881202/
-[github]:https://github.com/subhaDTECH
