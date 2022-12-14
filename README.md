@@ -11,6 +11,10 @@
 ### Learing DS and ALGO
 ### Competitive Programmer , starting Freelancing  in Upwork
 ### LinkedIn Profile -  https://www.linkedin.com/in/suva-duley-741881202/
+### Medium Profile   -- https://medium.com/@subhaduleygba
+### codingninjas codestudio  -- https://www.codingninjas.com/codestudio/profile/cea7f907-db7d-4332-b861-70e232266765
+### codechef - https://www.codechef.com/users/subha169
+### Leetcode - https://leetcode.com/SuvaDuley/
 
 
 
