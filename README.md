@@ -10,6 +10,7 @@
 ### python ,C++,DBMS,OPPS
 ### Learing DS and ALGO
 ### Competitive Programmer , starting Freelancing  in Upwork
+### LinkedIn Profile -  https://www.linkedin.com/in/suva-duley-741881202/
 
 
 
