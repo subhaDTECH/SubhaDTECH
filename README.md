@@ -49,6 +49,12 @@
 
 
 ### Connect with me:
+<!-- Add cool badges to showcase your skills, achievements, or social media profiles -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/suva-duley-741881202/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="suvaduleygba@email.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <!-- Add more badges as desired -->
+</p>
 [protfolie]:https://main-protfolie.web.app/
 [instagram]:https://www.instagram.com/subhaduleygba/
 [linkedin]:https://www.linkedin.com/in/suva-duley-741881202/
