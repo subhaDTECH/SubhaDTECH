@@ -55,7 +55,7 @@
   <a href="suvaduleygba@email.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <!-- Add more badges as desired -->
 </p>
-[protfolie]:https://main-protfolie.web.app/
+[protfolie]:https://suva-dtech111.netlify.app/
 [instagram]:https://www.instagram.com/subhaduleygba/
 [linkedin]:https://www.linkedin.com/in/suva-duley-741881202/
 [github]:https://github.com/subhaDTECH
