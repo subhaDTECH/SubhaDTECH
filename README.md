@@ -8,12 +8,12 @@
 - ⚡ Fun fact: I love to play cricket and play Football 
 ### software developer 🌟🌟🌟
 ### python ,C++,DBMS,OPPS
-### Learing DS and ALGO
+### Learing DS and ALGO 
+### DevOps ( Docker , Jenkins , Kubernetes , Aws , Chef , Ansible )
 ### Competitive Programmer , starting Freelancing  in Upwork
 ### LinkedIn Profile -  https://www.linkedin.com/in/suva-duley-741881202/
 ### Medium Profile   -- https://medium.com/@subhaduleygba
 ### codingninjas codestudio  -- https://www.codingninjas.com/codestudio/profile/cea7f907-db7d-4332-b861-70e232266765
-### codechef - https://www.codechef.com/users/subha169
 ### Leetcode - https://leetcode.com/SuvaDuley/
 
 
@@ -109,17 +109,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-
-
-
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-
 
 <br />
 <br />
