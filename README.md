@@ -2,10 +2,16 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Suva+Duley;I'm+22+years+old;I+am+from+India,+IN+Kolkata;+I+am+Learning+open+source+and+DevOps+and+systems+development+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Suva Duley</h1>
+<h1 align="center">Hi 👋, I'm Suva Duley</h1> 
+                                     <p align="center">  I'm a Passionate for 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐢𝐧𝐠 and 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from India 🏳️‍🌈 </p> 
+                                     <p align="center"> Problem Solving Enthusiast || 250 Problems+ on @LeetCode || 3⭐ LEETCODE || 5⭐ Hackerrank || Master on CodeStudio  
+                                        ||Newbie CodeForces || 500+ 
+                              Problems Solved on DSA ||  DSA Lover ❤️ || 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 || DevOps || AWS</p>
+      
 <h3 align="center">Be Aware Be Safe !</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 ### Hi there, I'm Suva Duley  [Full-Stack Developer] 👋
+
 
 ## I'm a Student at University Institute Of Technology, Burdwan!
 - 🔭 I’m currently working as Student!
